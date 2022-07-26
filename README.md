@@ -35,20 +35,24 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
+<h3 align="center">Tech Stack 🍗:</h3>
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/-React-ffb400?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffb400?style=flat-square&logo=python&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-ffb400?style=flat-square&logo=php&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffb400?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-ffb400?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ffb400?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-ffb400?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Shell" src="https://img.shields.io/badge/-Shell-ffb400?style=flat-square&logo=shell&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-ffb400?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
-<!-- YOUTUBE:START -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-- [Top VS Code Updates | v1.69 Released!! | Tips &amp; Tricks 2022 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=2ncAmRBCN1w)
-- [Learning to code is HARD - Unless you do this!](https://www.youtube.com/watch?v=VGGWcy6__Fg)
-- [Web3 101: What is an ERC1155 Smart Contract?](https://www.youtube.com/watch?v=q0M21Gk1ZnI)
-- [Web3 101: What is an ERC721/a Smart Contract?](https://www.youtube.com/watch?v=_XAxn0glwAI)
-- [Web3 101: What Is A Blockchain?](https://www.youtube.com/watch?v=145m3Ev4zbo)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
+## <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=kathalysth&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="kathalysth"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathalysth&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="kathalysth"/> </p>
 
 ### 📕 Latest Blog Posts
 
