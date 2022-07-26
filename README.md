@@ -32,7 +32,7 @@
 
 ## <p align="center" height='130px'>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kathalysth&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,05180D,5C6954,CD8A70,DFAF96&count_private=true&theme=graywhite" alt="kathalysth"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathalysth&layout=compact&show_icons=true&bg_color=0,05180D,5C6954,CD8A70&theme=graywhite&hide_title=true" alt="kathalysth"/> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=kathalysth&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=DDB962,DFAF96,CD8A70,5C6954,05180D&count_private=true&theme=graywhite" alt="kathalysth"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathalysth&layout=compact&show_icons=true&bg_color=DDB962,DFAF96,CD8A70,5C6954&theme=graywhite&hide_title=true" alt="kathalysth"/> </p>
 
 <h3 align="center">Currently listening to 🎧</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0rm1kq3erv1julqyq7evfmgi" alt="spotify" height="300px"/></p>
