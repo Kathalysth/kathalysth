@@ -1,4 +1,4 @@
-# Hi there, I'm Chris - aka Kathalysth 👋
+### Hello and Welcome 👋, I'm Chris
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bishopsirhchris?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkathalysth&screen_name=bishopsirhchris)
 
