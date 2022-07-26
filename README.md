@@ -2,8 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bishopsirhchris?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkathalysth&screen_name=bishopsirhchris)
 
-[[Last Commit](https://img.shields.io/github/last-commit/Kathalysth/kathalysth)]
-[[Profile Visits](https://komarev.com/ghpvc/?username=Kathalysth&logoColor=white&color=FFDE59)]
+[Last Commit](https://img.shields.io/github/last-commit/Kathalysth/kathalysth)
 
 ## I'm a Software Engineer, Tech enthusiast!!
 
