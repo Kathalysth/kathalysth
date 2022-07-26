@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to play the violin and cook
+- 🌱 Motto: _Keep striving for progress, not perfection_
 
 ### Languages and Tools:
 
