@@ -34,10 +34,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kathalysth&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=DDB962,DFAF96,CD8A70,5C6954,05180D&count_private=true&theme=graywhite" alt="kathalysth"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathalysth&layout=compact&show_icons=true&bg_color=DDB962,DFAF96,CD8A70,5C6954&theme=graywhite&hide_title=true" alt="kathalysth"/> </p>
 
 <h3 align="center">Currently listening to 🎧</h3>
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0rm1kq3erv1julqyq7evfmgi" alt="spotify" height="300px"/></p>
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gevnf7tonvzz3x76btrakezibu" alt="spotify" height="300px"/></p>
 
 ---
-
+5
 ### 📬 Connect with me:
 
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bishopsirhchris | Twitter" height="30" width="40" />][twitter]
