@@ -36,8 +36,9 @@ style="padding-right:10px;" />
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kathalysth&show_icons=true&include_all_commits=true&hide_border=true" alt="Kathalysth's GitHub stats" /> | <img align="left" alt="Kathalysth's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathalysth" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kathalysth&show_icons=true&include_all_commits=true&hide_border=true" alt="Kathalysth's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathalysth&langs_count=8&layout=compact&hide_border=true" alt="Kathalysth's GitHub stats" /> |
+|
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <h3 align="center">Currently listening to 🎧</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" height="300px" alt="spotify"></p>
