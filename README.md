@@ -5,7 +5,7 @@
 ### I'm a Software Engineer, Tech enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate on open source projects
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to play the violin and cook.
 - 🌱 Motto: _The best things dont come easy._
