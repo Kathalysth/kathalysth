@@ -2,12 +2,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bishopsirhchris?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkathalysth&screen_name=bishopsirhchris)
 
-### I'm a Software Engineer, Tech enthusiast!!
+### I'm a Front-End Developer
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate on open source projects
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to play the violin and cook.
+- ⚡ Fun fact: I love to play the violin and soccer.
 - 🌱 Motto: _The best things dont come easy._
 
 ### Languages and Tools:
