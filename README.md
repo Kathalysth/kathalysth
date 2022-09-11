@@ -1,4 +1,8 @@
-### Hello and Welcome 👋, I'm Chris
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Never,+Hello+and+Welcome+👋...;I'm+Chris...;this+is+where+it+begins+🖤&center=true&size=20">
+  </a>
+</h1>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bishopsirhchris?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkathalysth&screen_name=bishopsirhchris)
 
