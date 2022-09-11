@@ -6,6 +6,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bishopsirhchris?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkathalysth&screen_name=bishopsirhchris)
 
+<!-- Cool Giphy Start here -->
+
+<img align="right" width="90px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
+
+<!-- End here -->
+
 ### I'm a Front-End Developer
 
 - 🌱 I’m currently learning everything. 🤣
