@@ -17,7 +17,6 @@
 - 😄 Pronouns He/Him/His.**
 - 🔭 𝙸’𝚖 currently working 𝚘𝚗 **design systems and process automation.**
 - 👯 I’m looking to collaborate on open source projects
-- ⚡ Fun fact: I love soccer.
 - 🌱 Motto: _The best things dont come easy._
 
 ### Languages and Tools:
