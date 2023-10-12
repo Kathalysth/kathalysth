@@ -12,7 +12,7 @@
 ### I'm a Software Engineer
 
 - 😄 Pronouns He/Him/His.**
-- 🔭 𝙸’𝚖 currently working 𝚘𝚗 **System Design, Web Optimization, and Process automation.**
+- 🔭 𝙸’𝚖 currently working 𝚘𝚗 **Design System, Cloud Engineering, and Process automation.**
 - 👯 I’m looking to collaborate on open source projects
 - 🌱 Motto: _The best things dont come easy._
 
