@@ -1,7 +1,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/bishopsirhchris?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkathalysth&screen_name=bishopsirhchris)  [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)][CodePen]  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)][Hackerrank]  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)][Codewars]
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Chris+Ehigimetor;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;web+performance+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Chris+Ehigimetor;+Welcome+to+My+Profile!;Over+5+years+of+programming+experience;Always+learning+new+things+;web+performance+enthusiast)](https://git.io/typing-svg)
 
 <!-- Cool Giphy Start here -->
 
