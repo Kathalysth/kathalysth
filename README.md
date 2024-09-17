@@ -1,4 +1,4 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/bishopsirhchris?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkathalysth&screen_name=bishopsirhchris)  [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)][CodePen]  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)][Hackerrank]  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)][Codewars]
+
 
 
 
@@ -8,7 +8,7 @@
 
 <!-- End here -->
 
-### I'm a Software Engineer
+### Rapper.
 
 - 😄 Pronouns He/Him/His.**
 - 🔭 𝙸’𝚖 currently working 𝚘𝚗 **Design System, Cloud Engineering, and Process automation.**
@@ -36,10 +36,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kathalysth&show_icons=true&include_all_commits=true&hide_border=true" alt="Kathalysth's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathalysth&langs_count=8&layout=compact&hide_border=true" alt="Kathalysth's GitHub stats" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-### 📬 Connect with me:
+
 
 
 
